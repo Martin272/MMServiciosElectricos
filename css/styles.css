@@ -10228,28 +10228,28 @@ header.masthead h1 {
     list-style-type:none;
     background-color:#fff;
     color:#efefef;
-    height:43px;
+    height:80px;
     padding:0px;
-    margin:0px 0px 1px 0px;
-    -webkit-transition:all 0.25s ease-in-out;
-    -moz-transition:all 0.25s ease-in-out;
-    -o-transition:all 0.25s ease-in-out;
-    transition:all 0.25s ease-in-out;
+    margin:5px 5px 5px 5px;
+    -webkit-transition:all 0.48s ease-in-out;
+    -moz-transition:all 0.48s ease-in-out;
+    -o-transition:all 0.48s ease-in-out;
+    transition:all 0.48s ease-in-out;
     cursor:pointer;
 }
 .sticky li:hover{
-    margin-left:-115px;
+    margin-left:-120px;
 }
 .sticky li img{
     float:left;
-    margin:5px 4px;
-    margin-right:5px;
+    margin:10px 8px;
+    margin-right:10px;
 }
 .sticky li p{
-    padding-top:5px;
-    margin:0px;
-    line-height:16px;
-    font-size:11px;
+    padding-top:10px;
+    margin:10px;
+    line-height:18px;
+    font-size:13px;
 }
 .sticky li p a{
     text-decoration:none;
