@@ -43,7 +43,6 @@
   --font-family-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
 }
 
-
 .magictime {
 -webkit-animation-duration: 1.2s;
 -moz-animation-duration: 1.2s;
@@ -10221,8 +10220,8 @@ header.masthead h1 {
     margin:0px;
     position:fixed;
     right:-130px;
-    top:230px;
-    width:210px;
+    top:350px;
+    width:250px;
     z-index: 1100;
 }
 .sticky li{
